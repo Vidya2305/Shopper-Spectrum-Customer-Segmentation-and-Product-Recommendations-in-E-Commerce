@@ -1,1 +1,1 @@
-# Shopper-Spectrum-Customer-Segmentation-and-Product-Recommendations-in-E-Commerce
+# Shopper Spectrum: Customer Segmentation and Product Recommendations in E-Commerce
